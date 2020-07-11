@@ -3,6 +3,7 @@ Fool is an auto catcher/spammer for Pokemon Discord Bots
 Note: Currently only works for Poke Gal, will add Mewbot and Poketwo.
 
 ## Prerequisites
+You need Windows 10 installed. This has not been tested with macOS or Linux.
 You need to have Node.JS v13.x & NPM v6.x installed.
 
 ## Getting Started
