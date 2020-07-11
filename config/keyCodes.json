@@ -1,0 +1,444 @@
+{
+    "keyCodes": [
+        {
+            "name": "ESCAPE",
+            "aliases": [],
+            "code": 27
+        },
+        {
+            "name": "F1",
+            "aliases": [],
+            "code": 112
+        },
+        {
+            "name": "F2",
+            "aliases": [],
+            "code": 113
+        },
+        {
+            "name": "F3",
+            "aliases": [],
+            "code": 114
+        },
+        {
+            "name": "F4",
+            "aliases": [],
+            "code": 115
+        },
+        {
+            "name": "F5",
+            "aliases": [],
+            "code": 116
+        },
+        {
+            "name": "F6",
+            "aliases": [],
+            "code": 117
+        },
+        {
+            "name": "F7",
+            "aliases": [],
+            "code": 118
+        },
+        {
+            "name": "F8",
+            "aliases": [],
+            "code": 119
+        },
+        {
+            "name": "F9",
+            "aliases": [],
+            "code": 120
+        },
+        {
+            "name": "F10",
+            "aliases": [],
+            "code": 121
+        },
+        {
+            "name": "F11",
+            "aliases": [],
+            "code": 122
+        },
+        {
+            "name": "F12",
+            "aliases": [],
+            "code": 123
+        },
+        {
+            "name": "SCROLLLOCK",
+            "aliases": [],
+            "code": 145
+        },
+        {
+            "name": "Pause",
+            "aliases": [],
+            "code": 19
+        },
+        {
+            "name": "ESCAPE",
+            "aliases": [],
+            "code": 192
+        },
+        {
+            "name": "~",
+            "aliases": [],
+            "code": 27
+        },
+        {
+            "name": "1",
+            "aliases": [],
+            "code": 49
+        },
+        {
+            "name": "2",
+            "aliases": [],
+            "code": 50
+        },
+        {
+            "name": "3",
+            "aliases": [],
+            "code": 51
+        },
+        {
+            "name": "4",
+            "aliases": [],
+            "code": 52
+        },
+        {
+            "name": "5",
+            "aliases": [],
+            "code": 53
+        },
+        {
+            "name": "6",
+            "aliases": [],
+            "code": 54
+        },
+        {
+            "name": "7",
+            "aliases": [],
+            "code": 55
+        },
+        {
+            "name": "8",
+            "aliases": [],
+            "code": 56
+        },
+        {
+            "name": "9",
+            "aliases": [],
+            "code": 57
+        },
+        {
+            "name": "0",
+            "aliases": [],
+            "code": 48
+        },
+        {
+            "name": "-",
+            "aliases": [],
+            "code": 173
+        },
+        {
+            "name": "=",
+            "aliases": [],
+            "code": 61
+        },
+        {
+            "name": "BACKSPACE",
+            "aliases": [],
+            "code": 8
+        },
+        {
+            "name": "INSERT",
+            "aliases": [],
+            "code": 45
+        },
+        {
+            "name": "HOME",
+            "aliases": [],
+            "code": 36
+        },
+        {
+            "name": "PAGEUP",
+            "aliases": [],
+            "code": 33
+        },
+        {
+            "name": "NUMLOCK",
+            "aliases": [],
+            "code": 144
+        },
+        {
+            "name": "/",
+            "aliases": [],
+            "code": 111
+        },
+        {
+            "name": "*",
+            "aliases": [],
+            "code": 106
+        },
+        {
+            "name": "-",
+            "aliases": [],
+            "code": 173
+        },
+        {
+            "name": "TAB",
+            "aliases": [],
+            "code": 9
+        },
+        {
+            "name": "Q",
+            "aliases": [],
+            "code": 81
+        },
+        {
+            "name": "W",
+            "aliases": [],
+            "code": 87
+        },
+        {
+            "name": "E",
+            "aliases": [],
+            "code": 69
+        },
+        {
+            "name": "R",
+            "aliases": [],
+            "code": 82
+        },
+        {
+            "name": "T",
+            "aliases": [],
+            "code": 84
+        },
+        {
+            "name": "Y",
+            "aliases": [],
+            "code": 89
+        },
+        {
+            "name": "U",
+            "aliases": [],
+            "code": 85
+        },
+        {
+            "name": "I",
+            "aliases": [],
+            "code": 75
+        },
+        {
+            "name": "O",
+            "aliases": [],
+            "code": 79
+        },
+        {
+            "name": "P",
+            "aliases": [],
+            "code": 80
+        },
+        {
+            "name": "[",
+            "aliases": [],
+            "code": 219
+        },
+        {
+            "name": "]",
+            "aliases": [],
+            "code": 221
+        },
+        {
+            "name": "\\",
+            "aliases": [],
+            "code": 220
+        },
+        {
+            "name": "DELETE",
+            "aliases": [],
+            "code": 46
+        },
+        {
+            "name": "END",
+            "aliases": [],
+            "code": 35
+        },
+        {
+            "name": "PAGEDOWN",
+            "aliases": [],
+            "code": 34
+        },
+        {
+            "name": "ARROWUP",
+            "aliases": [],
+            "code": 38
+        },
+        {
+            "name": "+",
+            "aliases": [],
+            "code": 107
+        },
+        {
+            "name": "CAPSLOCK",
+            "aliases": [],
+            "code": 20
+        },
+        {
+            "name": "A",
+            "aliases": [],
+            "code": 65
+        },
+        {
+            "name": "S",
+            "aliases": [],
+            "code": 83
+        },
+        {
+            "name": "D",
+            "aliases": [],
+            "code": 68
+        },
+        {
+            "name": "F",
+            "aliases": [],
+            "code": 70
+        },
+        {
+            "name": "G",
+            "aliases": [],
+            "code": 71
+        },
+        {
+            "name": "H",
+            "aliases": [],
+            "code": 72
+        },
+        {
+            "name": "J",
+            "aliases": [],
+            "code": 74
+        },
+        {
+            "name": "K",
+            "aliases": [],
+            "code": 75
+        },
+        {
+            "name": "L",
+            "aliases": [],
+            "code": 76
+        },
+        {
+            "name": ";",
+            "aliases": [],
+            "code": 59
+        },
+        {
+            "name": "'",
+            "aliases": [],
+            "code": 222
+        },
+        {
+            "name": "ENTER",
+            "aliases": [],
+            "code": 13
+        },
+        {
+            "name": "ARROWLEFT",
+            "aliases": [],
+            "code": 37
+        },
+        {
+            "name": "CLEAR",
+            "aliases": [],
+            "code": 12
+        },
+        {
+            "name": "ARROWRIGHT",
+            "aliases": [],
+            "code": 39
+        },
+        {
+            "name": "SHIFT",
+            "aliases": [],
+            "code": 16
+        },
+        {
+            "name": "Z",
+            "aliases": [],
+            "code": 91
+        },
+        {
+            "name": "X",
+            "aliases": [],
+            "code": 88
+        },
+        {
+            "name": "C",
+            "aliases": [],
+            "code": 67
+        },
+        {
+            "name": "V",
+            "aliases": [],
+            "code": 86
+        },
+        {
+            "name": "B",
+            "aliases": [],
+            "code": 66
+        },
+        {
+            "name": "N",
+            "aliases": [],
+            "code": 78
+        },
+        {
+            "name": "M",
+            "aliases": [],
+            "code": 77
+        },
+        {
+            "name": ",",
+            "aliases": [],
+            "code": 188
+        },
+        {
+            "name": ".",
+            "aliases": [],
+            "code": 190
+        },
+        {
+            "name": "/",
+            "aliases": [],
+            "code": 191
+        },
+        {
+            "name": "ARROWDOWN",
+            "aliases": [],
+            "code": 40
+        },
+        {
+            "name": "CONTROL",
+            "aliases": [],
+            "code": 17
+        },
+        {
+            "name": "WINDOWS",
+            "aliases": [],
+            "code": 27
+        },
+        {
+            "name": "ALT",
+            "aliases": [],
+            "code": 27
+        },
+        {
+            "name": " ",
+            "aliases": [],
+            "code": 32
+        }
+    ]
+}
